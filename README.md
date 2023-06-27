@@ -22,4 +22,4 @@ Linux için:
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ## License
-[MIT]([label](LICENSE))
+[MIT](https://choosealicense.com/licenses/mit/)
